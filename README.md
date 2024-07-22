@@ -1,2 +1,2 @@
-# archaics
-Open Source Board Games and Poetry
+# Archaics
+## Open Source Board Games and Poetry
